@@ -1,26 +1,3 @@
-import tkinter
-from tkinter import *
-
-
-
-# core = Tk()
-# core.geometry("720x480")
-# core.title("ATM Application")
-#
-# l1 = Label(text = "Customer name : ", )
-# l1.place(x = 30, y = 20, height = 30, width = 200)
-# e1 = Entry(text = "")
-# e1.place(x = 200, y = 20, height = 30, width = 50)
-# l2 = Label(text = "Customer account no : ")
-# l2.place(x = 30, y = 100, height = 30, width = 200)
-# e2 = Entry(text = "")
-# e2.place(x = 200, y = 100, height = 30, width = 50)
-# l3 = Label(text = "Customer account no : ")
-# l3.place(x = 30, y = 100, height = 30, width = 200)
-# e3 = Entry(text = "")
-# e3.place(x = 200, y = 100, height = 30, width = 50)
-
-# core.mainloop()
 #import the library
 import csv
 
